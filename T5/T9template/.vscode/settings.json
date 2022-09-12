@@ -1,6 +1,0 @@
-{
-    "java.project.referencedLibraries": [
-        "lib/**/*.jar",
-        "/home/phj/software/glassfish4/glassfish/lib/gf-client.jar"
-    ]
-}

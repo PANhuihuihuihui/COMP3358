@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/home/phj/software/glassfish4/glassfish/lib/gf-client.jar",
+        "/usr/share/java/mysql-connector-java-8.0.24.jar"
+    ]
+}
