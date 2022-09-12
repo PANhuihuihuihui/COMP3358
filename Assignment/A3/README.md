@@ -33,6 +33,8 @@ cd software/Gminer/cd /home/phj/Downloads/test/JPoker_24_Game ;
 /usr/bin/env /usr/lib/jvm/java- 1.8.0-openjdk-amd64/bin/java -Djava.security.policy=./security.policy -Dfile.encoding=UTF-8 -cp /tmp/cp_5odlhhubhghrelj2aapw57dyi.jar GameGUI 127.0.0.1
 ```
 add the reference library into your IDE
+
+
 ![](https://raw.githubusercontent.com/PANhuihuihuihui/PicBed/main/202209120014814.png)
 
 
